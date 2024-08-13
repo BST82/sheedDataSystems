@@ -14,7 +14,7 @@ body {
     align-items: center;
     padding: 15px 20px;
     background-color: white;
-    color: #1ce615;
+    color: #48a868;
 }
 
 .logo {
@@ -46,7 +46,7 @@ body {
 .bar {
     width: 25px;
     height: 3px;
-    background-color: #1ce615;
+    background-color: #333;
     margin: 4px 0;
     transition: 0.3s;
 }
@@ -95,7 +95,7 @@ body {
     padding: 10px 20px;
     font-size: 16px;
     color: white;
-    background-color: #35b03b;
+    background-color: #333;
     text-decoration: none;
     border-radius: 5px;
 }
